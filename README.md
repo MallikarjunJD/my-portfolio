@@ -14,7 +14,7 @@ Rather than presenting projects as simple demos, each major project includes its
 
 ## 🌐 Portfolio
 
-**Live Portfolio:** `Add your deployed URL here`
+**Live Portfolio:** [mallikarjunjadiportfolio.vercel.app](https://mallikarjunjadiportfolio.vercel.app/)
 
 **GitHub:** [github.com/MallikarjunJD](https://github.com/MallikarjunJD)
 
